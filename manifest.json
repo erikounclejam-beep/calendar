@@ -1,8 +1,9 @@
 {
   "name": "共有カレンダー",
   "short_name": "カレンダー",
-  "description": "家族・グループで使いる共有カレンダー",
-  "start_url": "/index.html",
+  "description": "家族・グループで使える共有カレンダー",
+  "start_url": "/calendar/",
+  "scope": "/calendar/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F5F6FA",
